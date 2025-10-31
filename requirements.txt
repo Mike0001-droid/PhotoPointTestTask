@@ -1,0 +1,7 @@
+Django==4.2.0
+djangorestframework==3.14.0
+kafka-python==2.0.2
+aiogram==3.0.0
+psycopg2-binary==2.9.6
+pydantic==2.5.0
+aiohttp==3.8.5
